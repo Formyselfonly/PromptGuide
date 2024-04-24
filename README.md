@@ -1,4 +1,5 @@
 # PromptGuide
+Table of Contents
 1. Zero-shot Prompting
 2. Few-shot Prompting
 3. Chain-of-Thought Prompting
